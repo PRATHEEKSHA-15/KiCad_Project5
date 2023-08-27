@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library12)(type Legacy)(uri "${KIPRJMOD}/New_Library 12.lib")(options "")(descr ""))
+  (lib (name FSM8JH)(type Legacy)(uri "C:/Users/Pratheeksha/Desktop/kicad project/FSM8JH/FSM8JH.lib")(options "")(descr ""))
+)
